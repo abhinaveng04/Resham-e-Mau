@@ -1,0 +1,69 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    -webkit-tap-highlight-color: transparent;
+  }
+  
+  body {
+    background-color: #FAF6F0;
+    color: #1F1A1C;
+    font-family: 'Jost', sans-serif;
+    overflow-x: hidden;
+  }
+
+  h1, h2, h3, h4, .font-heritage {
+    font-family: 'Cormorant Garamond', 'Playfair Display', Georgia, serif;
+  }
+}
+
+/* Custom subtle scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: #FAF6F0;
+}
+::-webkit-scrollbar-thumb {
+  background: #D7B951;
+  border-radius: 9999px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #C59B27;
+}
+
+/* Horizontal scroll styling for mobile chips and product carousels */
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+.no-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+/* Gold Zari Shimmer effect */
+.zari-gradient {
+  background: linear-gradient(135deg, #FAF6F0 0%, #F5EAE0 50%, #FAF6F0 100%);
+}
+
+.gold-gradient-text {
+  background: linear-gradient(135deg, #B58A18 0%, #D4AF37 50%, #8C6A0C 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.gold-border-gradient {
+  border-image: linear-gradient(to right, #FAF6F0, #C59B27, #FAF6F0) 1;
+}
+
+/* Badge pulse */
+@keyframes trustPulse {
+  0%, 100% { opacity: 1; transform: scale(1); }
+  50% { opacity: 0.85; transform: scale(0.98); }
+}
+.pulse-trust {
+  animation: trustPulse 2.5s infinite ease-in-out;
+}

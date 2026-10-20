@@ -1,0 +1,659 @@
+{
+  "storeConfig": {
+    "brandName": "Resham-e-Mau",
+    "tagline": "The Heritage of Mau Silk",
+    "logoUrl": "/logo.png",
+    "whatsappNumber": "919643825049",
+    "whatsappDisplay": "+91 96438 25049",
+    "whatsappGroupUrl": "https://chat.whatsapp.com/B9AqpHwsolABs7IZ18nssx",
+    "instagramUrl": "https://www.instagram.com/resham.e.mau",
+    "instagramHandle": "@resham.e.mau",
+    "supportPhone": "+91 96438 25049",
+    "supportEmail": "resham.e.mau@gmail.com",
+    "officialAddress": "Steller Jeevan, Greater Noida (W) - 201318",
+    "announcementText": "✨ Handcrafted in Mau, UP • Zero Middlemen • Extra ₹100 Off on Prepaid UPI Orders • Free Pan-India Delivery",
+    "currencySymbol": "₹",
+    "upiDiscount": 100,
+    "freeShippingThreshold": 1999,
+    "banners": [
+      {
+        "id": 1,
+        "image": "/banner/banner1.png",
+        "title": "The Living Looms of Mau",
+        "subtitle": "Direct from master weavers in Maunath Bhanjan, Uttar Pradesh. Authentic pit-loom sarees crafted with generational pride.",
+        "ctaText": "Explore 17 Saree Weaves",
+        "ctaLink": "#catalog-grid"
+      },
+      {
+        "id": 2,
+        "image": "/banner/banner2.png",
+        "title": "Bridal & Festive Handloom Heritage",
+        "subtitle": "Uncompromised pure silk and zari brocades woven for auspicious celebrations. Zero middleman markups.",
+        "ctaText": "View All Handlooms",
+        "ctaLink": "#catalog-grid"
+      },
+      {
+        "id": 3,
+        "image": "/banner/banner3.png",
+        "title": "Katan, Satin & Organza Masterpieces",
+        "subtitle": "Lightweight festive elegance to opulent wedding drapes. Verified Silk Mark assurance on every piece.",
+        "ctaText": "Browse Catalog",
+        "ctaLink": "#catalog-grid"
+      }
+    ]
+  },
+  "products": [
+    {
+      "id": 1,
+      "sku": "REM-001",
+      "stockName": "Cream Stone",
+      "title": "Cream Stone Handloom Saree",
+      "slug": "rem-001-cream-stone",
+      "price": 2450,
+      "fabric": "Pure Katan Silk",
+      "workType": "Intricate Stone & Zari Work",
+      "description": "Timeless cream tone silk woven with fine stone embellishments and handloom gold zari borders from Mau artisans.",
+      "sareeLength": "5.50 Meters",
+      "blouseLength": "0.80 Meters Unstitched",
+      "weight": "600 Grams",
+      "care": "Dry Clean Only",
+      "inStock": true,
+      "variants": [
+        {
+          "colorName": "Royal Cream",
+          "colorHex": "#F5EFEB",
+          "inStock": true,
+          "images": [
+            "/products/Elegant Cream and Red Banarasi Saree.png",
+            "/products/Elegant White Saree Portrait.png"
+          ]
+        },
+        {
+          "colorName": "Antique Gold",
+          "colorHex": "#C59B27",
+          "inStock": true,
+          "images": [
+            "/products/Elegant Green and Gold Saree Portrait.png",
+            "/products/Elegant Plum and Gold Silk Saree.png"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "sku": "REM-002",
+      "stockName": "White Rose Buta",
+      "title": "White Rose Buta Handloom Saree",
+      "slug": "rem-002-white-rose-buta",
+      "price": 2250,
+      "fabric": "Soft Silk",
+      "workType": "Delicate Rose Buta Jacquard",
+      "description": "Serene white base adorned with rose floral motifs in subtle metallic zari, loomed with butter-soft drape.",
+      "sareeLength": "5.50 Meters",
+      "blouseLength": "0.80 Meters Unstitched",
+      "weight": "580 Grams",
+      "care": "Dry Clean Only",
+      "inStock": true,
+      "variants": [
+        {
+          "colorName": "Pearl White",
+          "colorHex": "#FAF8F5",
+          "inStock": true,
+          "images": [
+            "/products/Elegant White Saree Portrait.png",
+            "/products/Elegant Cream and Red Banarasi Saree.png"
+          ]
+        },
+        {
+          "colorName": "Blush Rose",
+          "colorHex": "#E8A598",
+          "inStock": true,
+          "images": [
+            "/products/Elegant Teal and Pink Saree Portrait.png",
+            "/products/Elegant Magenta Saree Portrait.png"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "sku": "REM-003",
+      "stockName": "All Over Satan",
+      "title": "All Over Satan Brocade Saree",
+      "slug": "rem-003-all-over-satan",
+      "price": 2850,
+      "fabric": "Pure Satin Silk",
+      "workType": "Dense All-Over Zari Brocade",
+      "description": "Lustrous high-density satin silk ground with opulent all-over woven texture, ideal for bridal receptions.",
+      "sareeLength": "5.50 Meters",
+      "blouseLength": "0.80 Meters Unstitched",
+      "weight": "650 Grams",
+      "care": "Dry Clean Only",
+      "inStock": true,
+      "variants": [
+        {
+          "colorName": "Wine Maroon",
+          "colorHex": "#5A1827",
+          "inStock": true,
+          "images": [
+            "/products/Brick-Red and Green Silk Saree Portrait.png",
+            "/products/Elegant Red Saree Portrait.png"
+          ]
+        },
+        {
+          "colorName": "Deep Plum",
+          "colorHex": "#4A154B",
+          "inStock": true,
+          "images": [
+            "/products/Elegant Plum and Gold Silk Saree.png",
+            "/products/Elegant Plum and Gold Sari Portrait.png"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "sku": "REM-004",
+      "stockName": "Chunri Silk",
+      "title": "Chunri Silk Traditional Saree",
+      "slug": "rem-004-chunri-silk",
+      "price": 1950,
+      "fabric": "Mulberry Soft Silk",
+      "workType": "Traditional Chunri Bandhej Motifs",
+      "description": "Celebratory festive chunri patterns woven in pure silk yarn with heritage zari temple borders.",
+      "sareeLength": "5.50 Meters",
+      "blouseLength": "0.80 Meters Unstitched",
+      "weight": "550 Grams",
+      "care": "Dry Clean Only",
+      "inStock": true,
+      "variants": [
+        {
+          "colorName": "Festive Red",
+          "colorHex": "#B71C1C",
+          "inStock": true,
+          "images": [
+            "/products/Elegant Red Saree Portrait.png",
+            "/products/Elegant Red and Green Saree Portrait.png"
+          ]
+        },
+        {
+          "colorName": "Mustard Yellow",
+          "colorHex": "#E0A91B",
+          "inStock": true,
+          "images": [
+            "/products/Elegant Green and Gold Saree Portrait.png",
+            "/products/Brick-Red and Green Silk Saree Portrait.png"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "sku": "REM-005",
+      "stockName": "Satanjal",
+      "title": "Satanjal Heritage Zari Jaal Saree",
+      "slug": "rem-005-satanjal",
+      "price": 2750,
+      "fabric": "Satin Silk",
+      "workType": "Intricate Satanjal Floral Weave",
+      "description": "Mesmerizing jaal weaving on satin surface creating a dual-tone shimmer under festive lighting.",
+      "sareeLength": "5.50 Meters",
+      "blouseLength": "0.80 Meters Unstitched",
+      "weight": "620 Grams",
+      "care": "Dry Clean Only",
+      "inStock": true,
+      "variants": [
+        {
+          "colorName": "Royal Magenta",
+          "colorHex": "#880E4F",
+          "inStock": true,
+          "images": [
+            "/products/Elegant Magenta Saree Portrait.png",
+            "/products/Elegant Plum and Gold Sari Portrait.png"
+          ]
+        },
+        {
+          "colorName": "Peacock Teal",
+          "colorHex": "#0D5C75",
+          "inStock": true,
+          "images": [
+            "/products/Elegant Teal and Mauve Sari Portrait.png",
+            "/products/Elegant Teal and Pink Saree Portrait.png"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "sku": "REM-006",
+      "stockName": "Organzha Multicolour",
+      "title": "Organzha Multicolour Pastel Saree",
+      "slug": "rem-006-organzha-multicolour",
+      "price": 2150,
+      "fabric": "Kora Organza Silk",
+      "workType": "Multicolor Meenakari Weft",
+      "description": "Airy, gossamer organza drape featuring rainbow pastel floral meenakari weaving with scalloped edges.",
+      "sareeLength": "5.50 Meters",
+      "blouseLength": "0.80 Meters Unstitched",
+      "weight": "450 Grams",
+      "care": "Dry Clean Only",
+      "inStock": true,
+      "variants": [
+        {
+          "colorName": "Mint Green",
+          "colorHex": "#A7D7C5",
+          "inStock": true,
+          "images": [
+            "/products/Elegant Mint Saree Studio Portrait.png",
+            "/products/Emerald and Rose-Gold Silk Saree Portrait.png"
+          ]
+        },
+        {
+          "colorName": "Rose Mauve",
+          "colorHex": "#C28285",
+          "inStock": true,
+          "images": [
+            "/products/Elegant Mauve Gold Zari Saree Portrait.png",
+            "/products/Elegant Teal and Mauve Sari Portrait.png"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "sku": "REM-007",
+      "stockName": "Cotton Buta",
+      "title": "Cotton Buta Handloom Saree",
+      "slug": "rem-007-cotton-buta",
+      "price": 1650,
+      "fabric": "Cotton Silk Blend",
+      "workType": "Fine Handloom Buta Weaving",
+      "description": "Breathable all-day comfort drape handwoven on Mau pit-looms with pure cotton warp and silk weft butas.",
+      "sareeLength": "5.50 Meters",
+      "blouseLength": "0.80 Meters Unstitched",
+      "weight": "500 Grams",
+      "care": "Dry Clean Only",
+      "inStock": true,
+      "variants": [
+        {
+          "colorName": "Natural Ivory",
+          "colorHex": "#F5EFE6",
+          "inStock": true,
+          "images": [
+            "/products/Elegant White Saree Portrait.png",
+            "/products/Elegant Cream and Red Banarasi Saree.png"
+          ]
+        },
+        {
+          "colorName": "Charcoal Black",
+          "colorHex": "#263238",
+          "inStock": true,
+          "images": [
+            "/products/Elegant Charcoal Saree Showcase.png",
+            "/products/Elegant Black and Silver Saree Portrait.png"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "sku": "REM-008",
+      "stockName": "Banari Silver",
+      "title": "Banari Silver Zari Silk Saree",
+      "slug": "rem-008-banari-silver",
+      "price": 2650,
+      "fabric": "Pure Silk",
+      "workType": "Pure Silver Zari Jacquard",
+      "description": "Majestic silver zari threads woven against a deep canvas, giving a royal moonlit radiance.",
+      "sareeLength": "5.50 Meters",
+      "blouseLength": "0.80 Meters Unstitched",
+      "weight": "620 Grams",
+      "care": "Dry Clean Only",
+      "inStock": true,
+      "variants": [
+        {
+          "colorName": "Silver Black",
+          "colorHex": "#1F1A1C",
+          "inStock": true,
+          "images": [
+            "/products/Elegant Black and Silver Saree Portrait.png",
+            "/products/Elegant Charcoal Saree Showcase.png"
+          ]
+        },
+        {
+          "colorName": "Silver Teal",
+          "colorHex": "#004D40",
+          "inStock": true,
+          "images": [
+            "/products/Elegant Teal and Mauve Sari Portrait.png",
+            "/products/Emerald and Rose-Gold Silk Saree Portrait.png"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "sku": "REM-009",
+      "stockName": "English Banarasi",
+      "title": "English Banarasi Modern Weave",
+      "slug": "rem-009-english-banarasi",
+      "price": 2550,
+      "fabric": "Katan Silk",
+      "workType": "Contemporary Pastel Brocade",
+      "description": "Fusing English pastel tones with classical Banarasi pit-loom weaving, crafted for modern cocktail and day weddings.",
+      "sareeLength": "5.50 Meters",
+      "blouseLength": "0.80 Meters Unstitched",
+      "weight": "600 Grams",
+      "care": "Dry Clean Only",
+      "inStock": true,
+      "variants": [
+        {
+          "colorName": "English Mauve",
+          "colorHex": "#9C6B7E",
+          "inStock": true,
+          "images": [
+            "/products/Elegant Mauve Gold Zari Saree Portrait.png",
+            "/products/Elegant Teal and Mauve Sari Portrait.png"
+          ]
+        },
+        {
+          "colorName": "Sage Mint",
+          "colorHex": "#8FA89B",
+          "inStock": true,
+          "images": [
+            "/products/Elegant Mint Saree Studio Portrait.png",
+            "/products/Elegant Green and Gold Saree Portrait.png"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "sku": "REM-010",
+      "stockName": "Organzha Red",
+      "title": "Organzha Red Bridal Sheer Saree",
+      "slug": "rem-010-organzha-red",
+      "price": 2350,
+      "fabric": "Kora Organza Silk",
+      "workType": "Intricate Cutwork & Red Zari",
+      "description": "Vibrant sindoor red organza with scalloped gota work and micro-zari motifs for reception brides.",
+      "sareeLength": "5.50 Meters",
+      "blouseLength": "0.80 Meters Unstitched",
+      "weight": "480 Grams",
+      "care": "Dry Clean Only",
+      "inStock": true,
+      "variants": [
+        {
+          "colorName": "Sindoor Crimson",
+          "colorHex": "#D32F2F",
+          "inStock": true,
+          "images": [
+            "/products/Elegant Red Saree Portrait.png",
+            "/products/Brick-Red and Green Silk Saree Portrait.png"
+          ]
+        },
+        {
+          "colorName": "Crimson Wine",
+          "colorHex": "#5A1827",
+          "inStock": true,
+          "images": [
+            "/products/Elegant Red and Green Saree Portrait.png",
+            "/products/Elegant Cream and Red Banarasi Saree.png"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "sku": "REM-011",
+      "stockName": "Mau Linen",
+      "title": "Mau Linen Pure Handloom Saree",
+      "slug": "rem-011-mau-linen",
+      "price": 1850,
+      "fabric": "Pure Handloom Linen Silk",
+      "workType": "Minimalist Zari Pattu Border",
+      "description": "The pride of Mau handloom cooperatives: 100-count organic flax linen blended with silk for formal poise.",
+      "sareeLength": "5.50 Meters",
+      "blouseLength": "0.80 Meters Unstitched",
+      "weight": "520 Grams",
+      "care": "Dry Clean Only",
+      "inStock": true,
+      "variants": [
+        {
+          "colorName": "Natural Charcoal",
+          "colorHex": "#37474F",
+          "inStock": true,
+          "images": [
+            "/products/Elegant Charcoal Saree Showcase.png",
+            "/products/Elegant Black and Silver Saree Portrait.png"
+          ]
+        },
+        {
+          "colorName": "Emerald Forest",
+          "colorHex": "#1B5E20",
+          "inStock": true,
+          "images": [
+            "/products/Elegant Green and Gold Saree Portrait.png",
+            "/products/Emerald and Rose-Gold Silk Saree Portrait.png"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "sku": "REM-012",
+      "stockName": "Silk Soft Copper Buta",
+      "title": "Silk Soft Copper Buta Saree",
+      "slug": "rem-012-silk-soft-copper-buta",
+      "price": 2450,
+      "fabric": "Soft Silk",
+      "workType": "Antique Copper Zari Buta",
+      "description": "Warm copper-toned zari motifs dancing across a soft silk canvas, giving an antique heirloom appeal.",
+      "sareeLength": "5.50 Meters",
+      "blouseLength": "0.80 Meters Unstitched",
+      "weight": "590 Grams",
+      "care": "Dry Clean Only",
+      "inStock": true,
+      "variants": [
+        {
+          "colorName": "Plum Copper",
+          "colorHex": "#4A1228",
+          "inStock": true,
+          "images": [
+            "/products/Elegant Plum and Gold Silk Saree.png",
+            "/products/Elegant Plum and Gold Sari Portrait.png"
+          ]
+        },
+        {
+          "colorName": "Rust Amber",
+          "colorHex": "#BF360C",
+          "inStock": true,
+          "images": [
+            "/products/Brick-Red and Green Silk Saree Portrait.png",
+            "/products/Elegant Red Saree Portrait.png"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "sku": "REM-013",
+      "stockName": "Silk Buta",
+      "title": "Silk Buta Classic Handloom Saree",
+      "slug": "rem-013-silk-buta",
+      "price": 2150,
+      "fabric": "Pure Katan Silk",
+      "workType": "Traditional Booti Jacquard",
+      "description": "Pure silk ground peppered with intricate mango and floral bootis, hand-loomed by Ansari weavers in Mau.",
+      "sareeLength": "5.50 Meters",
+      "blouseLength": "0.80 Meters Unstitched",
+      "weight": "570 Grams",
+      "care": "Dry Clean Only",
+      "inStock": true,
+      "variants": [
+        {
+          "colorName": "Emerald Green",
+          "colorHex": "#1B5E20",
+          "inStock": true,
+          "images": [
+            "/products/Emerald and Rose-Gold Silk Saree Portrait.png",
+            "/products/Elegant Green and Gold Saree Portrait.png"
+          ]
+        },
+        {
+          "colorName": "Rani Pink",
+          "colorHex": "#AD1457",
+          "inStock": true,
+          "images": [
+            "/products/Elegant Magenta Saree Portrait.png",
+            "/products/Elegant Teal and Pink Saree Portrait.png"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "sku": "REM-014",
+      "stockName": "Banarasi Silk",
+      "title": "Banarasi Silk Imperial Saree",
+      "slug": "rem-014-banarasi-silk",
+      "price": 2950,
+      "fabric": "Pure Brocade Silk",
+      "workType": "Sona Rupa Kadwa Weave",
+      "description": "Rich ceremonial saree boasting pure gold and silver dual-thread Kadwa weaving on high-density silk warp.",
+      "sareeLength": "5.50 Meters",
+      "blouseLength": "0.80 Meters Unstitched",
+      "weight": "660 Grams",
+      "care": "Dry Clean Only",
+      "inStock": true,
+      "variants": [
+        {
+          "colorName": "Royal Crimson",
+          "colorHex": "#880E1C",
+          "inStock": true,
+          "images": [
+            "/products/Elegant Red and Green Saree Portrait.png",
+            "/products/Brick-Red and Green Silk Saree Portrait.png"
+          ]
+        },
+        {
+          "colorName": "Emerald Rose",
+          "colorHex": "#004D40",
+          "inStock": true,
+          "images": [
+            "/products/Emerald and Rose-Gold Silk Saree Portrait.png",
+            "/products/Elegant Green and Gold Saree Portrait.png"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "sku": "REM-015",
+      "stockName": "Softy",
+      "title": "Softy Butter Silk Saree",
+      "slug": "rem-015-softy",
+      "price": 1750,
+      "fabric": "Ultra Soft Mulberry Silk",
+      "workType": "Delicate Zari Sheen Weave",
+      "description": "Featherlight, fluid drape with a velvet-soft hand feel. Ideal for festivals and day celebrations.",
+      "sareeLength": "5.50 Meters",
+      "blouseLength": "0.80 Meters Unstitched",
+      "weight": "490 Grams",
+      "care": "Dry Clean Only",
+      "inStock": true,
+      "variants": [
+        {
+          "colorName": "Dusty Pink",
+          "colorHex": "#D88B97",
+          "inStock": true,
+          "images": [
+            "/products/Elegant Teal and Pink Saree Portrait.png",
+            "/products/Elegant Magenta Saree Portrait.png"
+          ]
+        },
+        {
+          "colorName": "Pastel Mint",
+          "colorHex": "#A2D2BF",
+          "inStock": true,
+          "images": [
+            "/products/Elegant Mint Saree Studio Portrait.png",
+            "/products/Elegant White Saree Portrait.png"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "sku": "REM-016",
+      "stockName": "Embosse",
+      "title": "Embosse Textured Silk Saree",
+      "slug": "rem-016-embosse",
+      "price": 2350,
+      "fabric": "Embossed Jacquard Silk",
+      "workType": "3D Embossed Jacquard Relief",
+      "description": "Distinctive raised 3D jacquard pattern that catches light dynamically, paired with antique gold pattu.",
+      "sareeLength": "5.50 Meters",
+      "blouseLength": "0.80 Meters Unstitched",
+      "weight": "610 Grams",
+      "care": "Dry Clean Only",
+      "inStock": true,
+      "variants": [
+        {
+          "colorName": "Plum Gold",
+          "colorHex": "#512038",
+          "inStock": true,
+          "images": [
+            "/products/Elegant Plum and Gold Sari Portrait.png",
+            "/products/Elegant Plum and Gold Silk Saree.png"
+          ]
+        },
+        {
+          "colorName": "Midnight Teal",
+          "colorHex": "#00363A",
+          "inStock": true,
+          "images": [
+            "/products/Elegant Teal and Mauve Sari Portrait.png",
+            "/products/Elegant Teal and Pink Saree Portrait.png"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "sku": "REM-017",
+      "stockName": "Surat",
+      "title": "Surat Brocade Fusion Silk Saree",
+      "slug": "rem-017-surat",
+      "price": 2050,
+      "fabric": "Surat Jacquard Silk",
+      "workType": "Dense Zari Floral Tapestry",
+      "description": "Fine Surat-patterned floral brocade blended with Mau weaver finishing, offering durable festive charm.",
+      "sareeLength": "5.50 Meters",
+      "blouseLength": "0.80 Meters Unstitched",
+      "weight": "590 Grams",
+      "care": "Dry Clean Only",
+      "inStock": true,
+      "variants": [
+        {
+          "colorName": "Olive Gold",
+          "colorHex": "#33691E",
+          "inStock": true,
+          "images": [
+            "/products/Elegant Green and Gold Saree Portrait.png",
+            "/products/Brick-Red and Green Silk Saree Portrait.png"
+          ]
+        },
+        {
+          "colorName": "Ruby Red",
+          "colorHex": "#880E1C",
+          "inStock": true,
+          "images": [
+            "/products/Elegant Red Saree Portrait.png",
+            "/products/Elegant Red and Green Saree Portrait.png"
+          ]
+        }
+      ]
+    }
+  ]
+}
